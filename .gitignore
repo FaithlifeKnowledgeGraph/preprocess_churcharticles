@@ -1,3 +1,23 @@
+church-history-articles-en/
+books-with-NER-annotations/
+entities/
+.DS_Store
+rel-scib-ctx0
+ent-scib-ctx0
+faithlife_data/
+analysis_data/
+prediction_data/
+ml/entity/entity_output/
+ml/relation_output/
+ml/data/
+faithlife_model_data/
+analysis_data/*.csv
+preprocessing/cache_model_data/
+preprocessing/cache_processed_data/
+*.jsonl
+*.json
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
