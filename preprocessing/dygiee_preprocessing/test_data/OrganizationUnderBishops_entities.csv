@@ -1,0 +1,56 @@
+sentence_indice,start_index,end_index,entity_type,entity_label,entitty_name
+1,0,0,writing,bk.tle:OrganizationUnderBishops,OrganizationUnderBishops
+15,169,169,concept,bk.%bishop,bishop
+15,164,164,place,bk.%Rome_Place,Rome
+15,175,178,writing,bk.%FirstEpistleOfClement_Writing,First Epistle of Clement
+16,196,198,person,bio.IgnatiusAntioch.1,Ignatius of Antioch
+16,210,212,writing,bk.%EpistlesOfIgnatius_Writing,Epistles of Ignatius
+17,222,222,place,bk.%Smyrna_Place,Smyrna
+17,232,234,writing,bk.%EpistleOfPolycarp_Writing,Epistle of Polycarp
+18,242,242,person,bio.Irenaeus,Irenaeus
+19,250,252,person,bk.%CyprianOfCarthage_Person,Cyprian of Carthage
+19,252,252,place,bk.%Carthage_Place,Carthage
+21,279,280,person,bk.%PopeSaintLeoI_Person,Leo I
+27,349,351,writing,bk.%ApologyOfQuadratus_Writing,Apology of Quadratus
+31,387,393,writing,bk.%FirstEpistleOfClement_Writing,First Epistle of Clement (c. late 1st century)
+32,417,419,writing,bk.%EpistlesOfIgnatius_Writing,Epistles of Ignatius
+32,436,436,place,bk.%Ephesus_Place,Ephesus
+32,438,438,place,bk.%Magnesia_Place,Magnesia
+32,440,440,place,bk.@Tralles,Tralles
+32,442,442,place,bk.%Rome_Place,Rome
+32,444,444,place,bk.%Philadelphia_Place,Philadelphia
+32,447,447,place,bk.%Smyrna_Place,Symrna
+32,453,453,person,bk.%Polycarp_Person,Polycarp
+33,469,469,concept,bk.%bishop,bishop
+33,464,464,place,bk.%Rome_Place,Rome
+33,475,478,writing,bk.%FirstEpistleOfClement_Writing,First Epistle of Clement
+34,496,498,person,bio.IgnatiusAntioch.1,Ignatius of Antioch
+34,510,512,writing,bk.%EpistlesOfIgnatius_Writing,Epistles of Ignatius
+35,522,522,place,bk.%Smyrna_Place,Smyrna
+35,532,534,writing,bk.%EpistleOfPolycarp_Writing,Epistle of Polycarp
+36,542,542,person,bio.Irenaeus,Irenaeus
+37,550,552,person,bk.%CyprianOfCarthage_Person,Cyprian of Carthage
+37,552,552,place,bk.%Carthage_Place,Carthage
+49,663,663,place,bk.%Chalcedon_Place,Chalcedon
+50,673,673,place,bk.@Constantinople,Constantinople
+51,690,690,place,bk.@Nicaea,Nicaea
+52,699,699,place,bk.%Rome_Place,Rome
+54,716,717,concept,bk.%apostolicSuccession,Apostolic Succession
+55,718,718,concept,bk.%bishop,Bishop
+56,719,720,concept,bk.%churchOfficers,Church Officers
+57,721,721,concept,bk.%deacon,Deacon
+58,722,722,concept,bk.%deaconess,Deaconess
+59,723,726,concept,bk.%elderInTheNt,Elder in the NT
+60,727,727,concept,bk.%episcopacy,Episcopacy
+61,728,729,concept,bk.%PapalPrimacy_Writing,Papal Primacy
+62,730,730,concept,bk.%pope,Pope
+67,751,753,writing,bk.%ApologyOfQuadratus_Writing,Apology of Quadratus
+71,789,795,writing,bk.%FirstEpistleOfClement_Writing,First Epistle of Clement (c. late 1st century)
+72,819,821,writing,bk.%EpistlesOfIgnatius_Writing,Epistles of Ignatius
+72,838,838,place,bk.%Ephesus_Place,Ephesus
+72,840,840,place,bk.%Magnesia_Place,Magnesia
+72,842,842,place,bk.@Tralles,Tralles
+72,844,844,place,bk.%Rome_Place,Rome
+72,846,846,place,bk.%Philadelphia_Place,Philadelphia
+72,849,849,place,bk.%Smyrna_Place,Symrna
+72,855,855,person,bk.%Polycarp_Person,Polycarp

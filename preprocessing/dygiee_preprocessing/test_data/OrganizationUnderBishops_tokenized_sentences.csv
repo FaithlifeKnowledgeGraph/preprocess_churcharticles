@@ -1,0 +1,87 @@
+tokenized_sentence
+['OrganizationUnderBishops']
+"['The', 'Church', 'Organizes', 'Under', 'Bishops']"
+"['Period', ':', '!!smallcaps|ad!!', '50–451']"
+"['Description', ':', 'The', 'early', 'church', 'developed', 'under', 'the', 'care', 'and', 'leadership', 'of', 'bishops', ',', 'elders', ',', 'and', 'deacons/deaconesses.']"
+"['Key', 'Developments']"
+"['The', 'apostles', 'Paul', 'and', 'Barnabas', 'appointed', 'elders', 'in', 'the', 'early', 'church.']"
+"['The', 'early', 'church', 'was', 'ruled', 'by', 'elders', ',', 'or', 'bishops', ',', 'and', 'served', 'by', 'a', 'community', 'of', 'deacons', 'under', 'the', 'leadership', 'of', 'the', 'apostles.']"
+"['A', 'three-fold', 'structure', 'of', 'bishops', ',', 'elders', ',', 'and', 'deacons', 'developed', ';', 'one', 'bishop', 'per', 'congregation', 'with', 'multiple', 'elders', 'and', 'deacons/deaconesses.']"
+"['The', 'power', 'of', 'the', 'bishop', 'grew', ';', 'Rome', 'was', '""', 'first', 'among', 'equals', '""', 'but', 'bishops', 'began', 'to', 'assert', 'supremacy.']"
+"['The', 'office', 'of', 'deaconesses', 'began', 'to', 'decline', ',', 'disappearing', 'by', 'the', 'Middle', 'Ages.']"
+"['Bishops', 'in', 'Rome', ',', 'Alexandria', ',', 'Antioch', ',', 'Constantinople', ',', 'and', 'Jerusalem', 'gain', 'prestige', ',', 'known', 'as', 'patriarchs', ';', 'Constantinople', 'second', 'to', 'Rome.']"
+"['Leo', 'I', 'claimed', 'authority', 'over', 'all', 'bishops', 'and', 'the', 'church', 'based', 'on', 'primacy', 'of', 'the', 'apostle', 'Peter.']"
+"['Key', 'People']"
+['Bishops']
+"['Clement', 'of', 'Rome', '(', 'AD 30\u2009–\u2009100', ')', ':', 'bishop', 'of', 'Rome', ';', 'author', 'of', 'First', 'Epistle', 'of', 'Clement', 'which', 'addressed', 'issues', 'of', 'church', 'authority', 'and', 'governance', ',', 'and', 'affirmed', 'the', 'apostolic', 'authority', 'of', 'the', 'clergy.']"
+"['Ignatius', 'of', 'Antioch', '(', '50\u2009–\u2009110', ')', ':', 'bishop', 'of', 'Syrian', 'Antioch', ';', 'author', 'of', 'Epistles', 'of', 'Ignatius', 'which', '...']"
+"['Polycarp', '(', 'c. 69–c. 155', ')', ':', 'bishop', 'of', 'Smyrna', 'and', 'disciple', 'of', 'John', 'the', 'Apostle', ';', 'author', 'of', 'Epistle', 'of', 'Polycarp', 'which', 'addresses', 'early', 'church', 'practices', 'and', 'governance.']"
+"['Irenaeus', '(', '130–202', ')', ':', 'bishop', 'of', 'Lyons...']"
+"['Cyprian', 'of', 'Carthage', '(', 'AD 201–258', ')', ':', 'bishop', 'of', 'Carthage', ';', 'author', 'of', 'On', 'the', 'Unity', 'of', 'the', 'Church', 'in', 'which', 'he', 'asserted', 'the', 'unity', 'of', 'the', 'bishops.']"
+['Popes']
+"['Leo', 'I', '(', '400–November 10, 461', ')', ':', 'Italian', 'pope(440–461', ')', ';', 'argued', 'for', 'primacy', 'of', 'the', 'papacy', ';', 'first', 'to', 'use', 'the', 'title', '""', 'Pope.', '""']"
+"['Church', 'Fathers']"
+"['Tertullian', '(', 'c. AD 160–230', ')', ':', 'Christian', 'apologist', ';', 'he', 'wrote', 'extensively', 'in', 'Latin', 'and', 'is', 'often', 'regarded', 'as', 'the', '""', 'Father', 'of', 'the', 'Latin', 'Church"".']"
+['?']
+"['On', 'the', 'Unity', 'of', 'the', 'Church', '(', 'Cyprian of Carthage, 251', ')', ':', 'asserts', 'the', 'unity', 'of', 'the', 'bishops.']"
+['Apologies']
+"['Apology', 'of', 'Quadratus', '(', 'c. AD 117–125', ')', ':', 'addressed', 'to', 'emperor', 'Hadrian', ';', 'apologetic', 'defense', 'of', 'Jesus', ""'"", 'miracles.']"
+['Canons']
+"['Canons', 'of', 'Chalcedon', '(', 'Council of Chalcedon, 451', ')', ':', 'contains', 'guidelines', 'on', 'the', 'behavior', 'of', 'bishops', 'and', 'ordination', 'of', 'deaconesses.']"
+['Epistles']
+"['First', 'Epistle', 'of', 'Clement', '(', 'c. late 1st century', ')', ':', 'addressed', 'to', 'church', 'of', 'Corinth', ';', 'addresses', 'issues', 'of', 'church', 'authority', 'and', 'governance', ',', 'and', 'affirmed', 'the', 'apostolic', 'authority', 'of', 'the', 'clergy.']"
+"['Epistles', 'of', 'Ignatius', '(', 'c. early 2nd century AD', ')', ':', 'collection', 'of', 'seven', 'letters', ';', 'six', 'letters', 'are', 'addressed', 'to', 'churches', 'in', 'Ephesus', ',', 'Magnesia', ',', 'Tralles', ',', 'Rome', ',', 'Philadelphia', ',', 'and', 'Symrna', ',', 'and', 'one', 'addressed', 'to', 'Polycarp', ';', 'addresses', 'issues', 'of', 'church', 'authority', 'and', 'governance.']"
+"['Clement', 'of', 'Rome', '(', 'AD 30\u2009–\u2009100', ')', ':', 'bishop', 'of', 'Rome', ';', 'author', 'of', 'First', 'Epistle', 'of', 'Clement', 'which', 'addressed', 'issues', 'of', 'church', 'authority', 'and', 'governance', ',', 'and', 'affirmed', 'the', 'apostolic', 'authority', 'of', 'the', 'clergy.']"
+"['Ignatius', 'of', 'Antioch', '(', '50\u2009–\u2009110', ')', ':', 'bishop', 'of', 'Syrian', 'Antioch', ';', 'author', 'of', 'Epistles', 'of', 'Ignatius', 'which', '...']"
+"['Polycarp', '(', 'c. 69–c. 155', ')', ':', 'bishop', 'of', 'Smyrna', 'and', 'disciple', 'of', 'John', 'the', 'Apostle', ';', 'author', 'of', 'Epistle', 'of', 'Polycarp', 'which', 'addresses', 'early', 'church', 'practices', 'and', 'governance.']"
+"['Irenaeus', '(', '130–202', ')', ':', 'bishop', 'of', 'Lyons...']"
+"['Cyprian', 'of', 'Carthage', '(', 'AD 201–258', ')', ':', 'bishop', 'of', 'Carthage', ';', 'author', 'of', 'On', 'the', 'Unity', 'of', 'the', 'Church', 'in', 'which', 'he', 'asserted', 'the', 'unity', 'of', 'the', 'bishops.']"
+"['Key', 'Events']"
+"['50', ':', 'Paul', 'Appoints', 'Elders']"
+"['100s', ':', 'Bishopric', 'Forms', 'at', 'Gadara']"
+"['2nd', 'century', ':', 'Office', 'of', 'Bishop', 'Is', 'Instituted', 'in', 'the', 'Church']"
+"['3rd', 'century', ':', 'Bishops', 'Are', 'Chosen', 'by', 'the', 'Vote', 'of', 'the', 'People']"
+"['251', ':', 'On', 'the', 'Unity', 'of', 'the', 'Church', 'by', 'Cyprian', 'Is', 'Written']"
+"['300s', ':', 'Pastor', 'and', 'Bishop', 'Are', 'Used', 'Synonymously']"
+"['325', ':', 'Council', 'of', 'Nicaea', 'established', 'patriarchal', 'bishops', 'of', 'Antioch', ',', 'Alexandria', ',', 'and', 'Rome.']"
+"['381', ':', 'First', 'Council', 'of', 'Constantinople', ':']"
+"['451', ':', 'Council', 'of', 'Chalcedon']"
+"['Key', 'Places']"
+"['Chalcedon', ':', 'location', 'of', 'the', 'Council', 'of', 'Chalcedon', 'in', '451.']"
+"['Constantinople', ':', 'capital', 'of', 'the', 'Roman', 'Empire', 'after', '324', ';', 'location', 'of', 'the', 'First', 'Council', 'of', 'Constantinople.']"
+"['Nicaea', ':', 'location', 'of', 'the', 'First', 'Council', 'of', 'Nicaea.']"
+"['Rome', ':', 'capital', 'of', 'the', 'Roman', 'Empire', 'until', '324', ';', 'residency', 'of', 'the', 'Roman', 'papacy.']"
+"['Key', 'Concepts']"
+"['Apostolic', 'Succession']"
+['Bishop']
+"['Church', 'Officers']"
+['Deacon']
+['Deaconess']
+"['Elder', 'in', 'the', 'NT']"
+['Episcopacy']
+"['Papal', 'Primacy']"
+['Pope']
+"['Key', 'Documents']"
+['?']
+"['On', 'the', 'Unity', 'of', 'the', 'Church', '(', 'Cyprian of Carthage, 251', ')', ':', 'asserts', 'the', 'unity', 'of', 'the', 'bishops.']"
+['Apologies']
+"['Apology', 'of', 'Quadratus', '(', 'c. AD 117–125', ')', ':', 'addressed', 'to', 'emperor', 'Hadrian', ';', 'apologetic', 'defense', 'of', 'Jesus', ""'"", 'miracles.']"
+['Canons']
+"['Canons', 'of', 'Chalcedon', '(', 'Council of Chalcedon, 451', ')', ':', 'contains', 'guidelines', 'on', 'the', 'behavior', 'of', 'bishops', 'and', 'ordination', 'of', 'deaconesses.']"
+['Epistles']
+"['First', 'Epistle', 'of', 'Clement', '(', 'c. late 1st century', ')', ':', 'addressed', 'to', 'church', 'of', 'Corinth', ';', 'addresses', 'issues', 'of', 'church', 'authority', 'and', 'governance', ',', 'and', 'affirmed', 'the', 'apostolic', 'authority', 'of', 'the', 'clergy.']"
+"['Epistles', 'of', 'Ignatius', '(', 'c. early 2nd century AD', ')', ':', 'collection', 'of', 'seven', 'letters', ';', 'six', 'letters', 'are', 'addressed', 'to', 'churches', 'in', 'Ephesus', ',', 'Magnesia', ',', 'Tralles', ',', 'Rome', ',', 'Philadelphia', ',', 'and', 'Symrna', ',', 'and', 'one', 'addressed', 'to', 'Polycarp', ';', 'addresses', 'issues', 'of', 'church', 'authority', 'and', 'governance.']"
+"['On', 'the', 'Unity', 'of', 'the', 'Church', '(', 'Cyprian of Carthage, 251', ')', ':', 'asserts', 'the', 'unity', 'of', 'the', 'bishops.']"
+"['See', 'Also']"
+"['Curtis', ',', 'A.', 'Kenneth', ',', 'J.', 'Stephen', 'Lang', ',', 'and', 'Randy', 'Petersen.', '""', '177', 'Irenaeus', 'Becomes', 'Bishop', 'of', 'Lyons.', '""', 'In', 'The', '100', 'Most', 'Important', 'Events', 'in', 'Christian', 'History.', 'Grand', 'Rapids', ',', 'MI', ':', 'Revell', ',', '1998.']"
+"['---------.', '""', 'Circa', '196', 'Tertullian', 'Begins', 'to', 'Write', 'Christian', 'Books.', '""', 'In', 'The', '100', 'Most', 'Important', 'Events', 'in', 'Christian', 'History.', 'Grand', 'Rapids', ',', 'MI', ':', 'Revell', ',', '1998.']"
+"['---------.', '""', '251', 'Cyprian', 'Writes', 'On', 'the', 'Unity', 'of', 'the', 'Church.', '""', 'In', 'The', '100', 'Most', 'Important', 'Events', 'in', 'Christian', 'History.', 'Grand', 'Rapids', ',', 'MI', ':', 'Revell', ',', '1998.']"
+"['---------.', '""', '385', 'Bishop', 'Ambrose', 'Defies', 'the', 'Empress.', '""', 'In', 'The', '100', 'Most', 'Important', 'Events', 'in', 'Christian', 'History.', 'Grand', 'Rapids', ',', 'MI', ':', 'Revell', ',', '1998.']"
+"['---------.', '""', '398', 'John', 'Chrysostom', 'Becomes', 'Bishop', 'of', 'Constantinople.', '""', 'In', 'The', '100', 'Most', 'Important', 'Events', 'in', 'Christian', 'History.', 'Grand', 'Rapids', ',', 'MI', ':', 'Revell', ',', '1998.']"
+"['Ferguson', ',', 'Everett.', '""', 'II.', 'Organization', 'of', 'teh', 'Church.', '""', 'In', 'Church', 'History', ':', 'From', 'Christ', 'to', 'Pre-Reformation.', 'Vol.', '1.', 'Grand', 'Rapids', ',', 'MI', ':', 'Zondervan', ',', '2005.']"
+"['González', ',', 'Justo', 'L.', '""', 'The', 'Organization', 'of', 'the', 'Church.', '""', 'In', 'The', 'Story', 'of', 'Christianity', ':', 'The', 'Early', 'Church', 'to', 'the', 'Dawn', 'of', 'the', 'Reformation.', 'Edited', 'by', 'HarperOne.', 'New', 'York', ',', 'NY', ',', '2010.']"
+"['James', ',', 'Frank', 'A.', ',', 'III.', '""', 'Structure', 'of', 'the', 'Early', 'Church.', '""', 'In', 'CH101', 'Introducing', 'Church', 'History', 'I', ':', 'Obscurity', 'to', 'Christendom.', 'Logos', 'Mobile', 'Education.', 'Bellingham', ',', 'WA', ':', 'Lexham', 'Press', ',', '2016.']"
+"['Noll', ',', 'Mark', 'A.', '""', 'Episcopacy.', '""', 'In', 'Turning', 'Points', ':', 'Decisive', 'Moments', 'in', 'the', 'History', 'of', 'Christianity.', 'Third', 'Edition.', 'Grand', 'Rapids', ',', 'MI', ':', 'Baker', 'Academic', ',', '2012.']"
+"['Shelley', ',', 'Bruce', 'L.', '""', 'Chapter', '7', ':', 'School', 'for', 'Sinners', ':', 'A', 'Structure', 'That', 'Fits.', '""', 'In', 'Church', 'History', 'in', 'Plain', 'Language.', '5th', 'Edition.', 'Grand', 'Rpaids', ',', 'MI', ':', 'Zondervan', 'Academic', ',', '2020.']"
+"['Todd', ',', 'Richard', 'A.', '""', 'Chapter', '12', ':', 'Clergy', ',', 'Bishops', ',', 'and', 'Pope', ':', 'The', 'Church', 'Builds', 'an', 'Organization.', '""', 'In', 'Introduction', 'to', 'the', 'History', 'of', 'Christianity', ',', 'edited', 'by', 'Tim', 'Dowley', ',', 'Third', 'Edition.', ',', '145–50.', 'Minneapolis', ',', 'MN', ':', 'Fortress', 'Press', ',', '2018.']"
+"['Walton', ',', 'Robert', 'C.', '""', '22.', 'Development', 'of', 'Episcopacy', 'in', 'the', 'First', 'Five', 'Centuries.', '""', 'In', 'Chronological', 'and', 'Background', 'Charts', 'of', 'Church', 'History.', 'Revised', 'Edition.', 'ZondervanCharts.', 'Zondervan', ',', '2018.']"
