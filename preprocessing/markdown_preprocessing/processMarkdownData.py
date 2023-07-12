@@ -2,7 +2,7 @@ import markdown
 import bs4
 import pathlib
 
-from loadChurchMarkdownData import LoadChurchData
+from loadFaithlifeData import LoadFaithlifeData
 from markdown_preprocessing.article_structs import *
 from typing import Sequence
 
@@ -15,7 +15,9 @@ class MarkdownDataProcessor:
         html_data: List of html strings, from converted markdown files.
     '''
 
-    def __init__(self, dataloader: LoadChurchData, cache_data: bool = False):
+    def __init__(self,
+                 dataloader: LoadFaithlifeData,
+                 cache_data: bool = False):
         self.dataloader = dataloader
         self.cache_data = cache_data
         self.html_data = self.markdown_to_html()
@@ -71,8 +73,8 @@ class MarkdownDataProcessor:
             articles.append(new_article)
         return articles
 
-    def parse_metadata_from_article(self,
-                                    soup: bs4.BeautifulSoup) -> bs4.element.Tag:
+    def parse_metadata_from_article(
+            self, soup: bs4.BeautifulSoup) -> bs4.element.Tag:
         '''Parses metadata information from markdown article.
 
         Args:
@@ -189,8 +191,9 @@ class MarkdownDataProcessor:
 
                 articleSection.ner_tuples[bullet_point_index] = []
                 for href_words in h2_bullet_point.findAll(href=True):
-                    word, href_link = href_words.text, href_words['href'].split(
-                        'https://ref.ly/logos4/Factbook?ref=')[-1]
+                    word, href_link = href_words.text, href_words[
+                        'href'].split(
+                            'https://ref.ly/logos4/Factbook?ref=')[-1]
 
                     start_index = h2_bullet_point.text.find(word)
                     end_index = start_index + len(word) - 1
@@ -255,6 +258,7 @@ class MarkdownDataProcessor:
                         article.sentences.append([h3_bullet_point.text])
 
                         sentence_counter += 1
-                    articleSection.article_subsections.append(articleSubsection)
+                    articleSection.article_subsections.append(
+                        articleSubsection)
             article.article_sections.append(articleSection)
         return article
