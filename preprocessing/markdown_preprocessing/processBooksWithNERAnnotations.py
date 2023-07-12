@@ -1,9 +1,9 @@
-from loadChurchMarkdownData import LoadChurchData
+from loadFaithlifeData import LoadFaithlifeData
 
 
 class BooksWithNERAnnotationProcesser:
 
-    def __init__(self, dataloader: LoadChurchData):
+    def __init__(self, dataloader: LoadFaithlifeData):
         self.data_loader = dataloader
 
     def read_data(self):
