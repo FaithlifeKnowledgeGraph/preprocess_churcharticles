@@ -11,6 +11,7 @@ prediction_data/*
 ml/entity/entity_output/*
 ml/relation_output/*
 ml/data/*
+*.md
 faithlife_model_data/*
 analysis_data/*.csv
 preprocessing/cache_model_data/*
