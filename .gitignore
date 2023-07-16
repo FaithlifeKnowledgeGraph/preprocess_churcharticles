@@ -1,5 +1,6 @@
 church-history-articles-en/*
 books-with-NER-annotations/*
+books-with-NER-annotations-modified/*
 entities/*
 .DS_Store
 rel-scib-ctx0
