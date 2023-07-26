@@ -16,7 +16,7 @@ import markdown
 from dataclasses import dataclass, field
 from typing import List
 
-PATH_TO_BOOKS = "../faithlife_data/books-with-NER-annotations-modified/*.md"
+# PATH_TO_BOOKS = "../faithlife_data/books-with-NER-annotations-modified/*.md"
 
 
 @dataclass
@@ -90,12 +90,13 @@ class Book:
 
 class BooksWithNERAnnotationProcesser:
 
-    def __init__(self):
+    def __init__(self, path_to_books: str):
+        self.path_to_books = path_to_books
         self.html_data = self.markdown_to_html()
 
     def markdown_to_html(self):
         html_data = []
-        for book in glob.glob(PATH_TO_BOOKS):
+        for book in glob.glob(self.path_to_books):
             with open(book, 'r') as f:
                 html_from_markdown = markdown.markdown(f.read())
                 html_data.append(html_from_markdown)
@@ -259,8 +260,6 @@ class BooksWithNERAnnotationProcesser:
         bookSection: BookSection,
         all_h3_subsection_html: List[bs4.element.Tag],
     ) -> BookSection:
-        prev_last_index = 0
-        sentence_counter = 0
         for h3_header in all_h3_subsection_html:
             print('h3_header:', h3_header)
             bookSubsection = BookSubsection()
@@ -276,6 +275,7 @@ class BooksWithNERAnnotationProcesser:
             bookSubsection.ner_tuples.extend(
                 [] for _ in range(len(sentence_segmented)))
 
+            prev_last_index = 0
             for sentence_index, sentence in enumerate(sentence_segmented):
                 book.sentences.append([sentence])
                 bookSubsection.sentences.append([sentence])
@@ -330,7 +330,3 @@ class BooksWithNERAnnotationProcesser:
                 ner_tuples.append((start_index, end_index, word, href_link))
 
         return ner_tuples
-
-
-b = BooksWithNERAnnotationProcesser()
-b.process_html()
