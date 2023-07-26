@@ -1,5 +1,6 @@
 church-history-articles-en/*
 books-with-NER-annotations/*
+books-with-NER-annotations-modified/*
 entities/*
 .DS_Store
 rel-scib-ctx0
@@ -10,6 +11,7 @@ prediction_data/*
 ml/entity/entity_output/*
 ml/relation_output/*
 ml/data/*
+*.md
 faithlife_model_data/*
 analysis_data/*.csv
 preprocessing/cache_model_data/*

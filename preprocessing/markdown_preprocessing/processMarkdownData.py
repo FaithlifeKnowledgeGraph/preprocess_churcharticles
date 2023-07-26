@@ -279,7 +279,10 @@ class MarkdownDataProcessor:
             articleSection.article_subsections.append(articleSubsection)
         return articleSection, sentence_counter
 
-    def extract_ner_tuples(self, text: str) -> List[str]:
+    def extract_ner_tuples(
+        self,
+        html_element: bs4.element.NavigableString,
+    ) -> List[str]:
         """Extracts NER tuples from html text with href links.
 
         In the markdown files, there are labels with [entity](entity_label)
@@ -301,11 +304,11 @@ class MarkdownDataProcessor:
             List of entity label in the form of a tuple 
         """
         ner_tuples = []
-        for href_words in text.findAll(href=True):
+        for href_words in html_element.findAll(href=True):
             word, href_link = href_words.text, href_words['href'].split(
                 'https://ref.ly/logos4/Factbook?ref=')[-1]
 
-            start_index = text.text.find(word)
+            start_index = html_element.text.find(word)
             end_index = start_index + len(word) - 1
             ner_tuples.append((start_index, end_index, word, href_link))
         return ner_tuples
